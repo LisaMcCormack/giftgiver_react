@@ -35,6 +35,6 @@
   "devDependencies": {
     "enzyme-adapter-react-16": "^1.14.0",
     "eslint": "^6.4.0",
-    "lint": "^0.7.0"
+    "lint": "^0.8.19"
   }
 }
